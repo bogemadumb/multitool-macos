@@ -1,0 +1,2 @@
+# /etc/sudoers.d/multitul — installed by install-root.sh (visudo -cf checked)
+__USER__ ALL=(root) NOPASSWD: /usr/local/libexec/multitul-ctl
